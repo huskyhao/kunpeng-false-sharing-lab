@@ -1,3 +1,10 @@
+> **项目已迁移至统一合集**
+>
+> 后续维护与最新内容请访问：[huawei-computing-practice / kunpeng-false-sharing-lab](https://github.com/huskyhao/huawei-computing-practice/tree/main/kunpeng-false-sharing-lab)。
+> 本仓库归档保留已有博客链接与迁移前历史。
+
+---
+
 # 鲲鹏多线程计数器：伪共享、缓存行填充与原子指令实测
 
 **[技术博客正文](blog.md)** · **[官方参考资料](sources.md)** · **[公开版说明](PUBLICATION.md)**
